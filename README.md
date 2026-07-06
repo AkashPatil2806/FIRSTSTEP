@@ -1,2 +1,2 @@
-# FIRSTSTEP
-My first repository in the journey of becoming a successful programmer and developer.
+# FIRSTSTEP🥇
+My first repository in the journey of becoming a successful programmer and developer.<br>Hey there!👋 <br> I am Akash Patil, student of FYCS D.G Ruparel college pursuing degree of Bachelor's in Computer Science.<br>I have a lot interest in software development,coding and want to upgrade my skills in various computers languages like javascript,python, C++ etc not alone, but with my entire team.<br>      Feel free to connect with me and reach out. <br>Thanks for visiting my repository.❤️
